@@ -1,0 +1,13 @@
+__pycache__
+.vscode
+.env
+all_req.txt
+process.txt
+test_api.py
+test.py
+test_direct.py
+test_edenai.py
+test_minimal.py
+test_openrouter.py".env"
+*.pyc
+*.log 
